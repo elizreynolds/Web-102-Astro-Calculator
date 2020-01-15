@@ -46,7 +46,7 @@ function calculateWeight(weight, planetName) {
 
   result = newWeight;
 
-  document.getElementById('output').innerHTML =  " If you were on " +  name +  " you would weigh " +  result;
+  document.getElementById('output').innerHTML =  " If you were on " +  name +  ",  you would weigh " +  result + "lbs!";
 
 
 };
